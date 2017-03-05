@@ -1,2 +1,2 @@
 # distributed-databases
-project of UA Distributed Databases imperted by Euler
+project of UA Distributed Databases imparted by Euler
